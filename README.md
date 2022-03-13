@@ -22,6 +22,17 @@ Now the opposite can be said about the same stock options in 2018 many of the sa
 
 
 ## Summary
+With refractoring code there are some advantages and disadvanages, the follwing are some of the advantages and disadvantages.
+### Advantages of Refractoring Code
+> - Easy to look at and define the code
+> - Debugging is simply done when in one **Sub()**
+> - Better to plan out all your steps when using comments
+### Disadvantages of using Refractored code
+> - Repeating patterns in code
+>  - More work to create a completely new code
+>  - Could be more complex than first derived code
+### Pros and Cons of refractoring to this Project
+The disadvatages and advatages to this project apply, since in the original code it was already done, such as having the formating of the color, and the fonts of the text to use to bring up in the excel sheet. But on the other hand the code is also easier to apply the macro to a button to have everything done with one code instead of having a seperate button to do so or even to apply two macros on to one button. Another advantage of having refractored code that was mentioned was debugging is very easlily done since VBA can identify what seems out of place and u can fix it when trying to run. In this project an advantage of using refractored code is that everything was planned out to make the code work. Planning with comments and showing what it is that you're doing is a very important  step when making a code that you could forget what you did, or even when someone else is looking at it.
 
 
 
